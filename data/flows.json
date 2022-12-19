@@ -915,6 +915,20 @@
         ]
     },
     {
+        "id": "da7fa474e729f103",
+        "type": "comment",
+        "z": "eb7909bcf5fcaf8a",
+        "name": "Note",
+        "info": "This is a detailed diagram of the Big Bang flow when a deployment runs\n\n## Diagram\nOpen this in one window: [description](https://github.com/MxNxPx/diagram-as-code/blob/main/DESCRIPTION.md) and this in another: [diagram](https://raw.githubusercontent.com/MxNxPx/diagram-as-code/main/bigbang.png).",
+        "x": 720,
+        "y": 500,
+        "wires": [
+            [
+                "803aead6445263d4"
+            ]
+        ]
+    },
+    {
         "id": "ea946e25b7c2079f",
         "type": "subflow:0ac7681ed1c2bc4b",
         "z": "eb7909bcf5fcaf8a",
